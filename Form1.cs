@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//COMMIT 1
 namespace Corsa_di_BGW
 {
     public partial class FrmMain : Form
